@@ -22,7 +22,7 @@
 #include <float.h>
 #include "SDL.h"
 #include "SDL_opengl.h"
-#include "imgui.h"
+#include "imguiNav.h"
 #include "ConvexVolumeTool.h"
 #include "InputGeom.h"
 #include "Sample.h"

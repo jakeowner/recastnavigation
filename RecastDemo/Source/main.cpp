@@ -30,7 +30,7 @@
 #include <vector>
 #include <string>
 
-#include "imgui.h"
+#include "imguiNav.h"
 #include "imguiRenderGL.h"
 
 #include "Recast.h"

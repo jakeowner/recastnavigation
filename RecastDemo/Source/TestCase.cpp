@@ -31,7 +31,7 @@
 #else
 #	include <GL/glu.h>
 #endif
-#include "imgui.h"
+#include "imguiNav.h"
 #include "PerfTimer.h"
 
 #ifdef WIN32

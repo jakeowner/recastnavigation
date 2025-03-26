@@ -27,7 +27,7 @@
 #else
 #	include <GL/glu.h>
 #endif
-#include "imgui.h"
+#include "imguiNav.h"
 #include "OffMeshConnectionTool.h"
 #include "InputGeom.h"
 #include "Sample.h"

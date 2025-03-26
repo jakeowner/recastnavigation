@@ -28,7 +28,7 @@
 #else
 #	include <GL/glu.h>
 #endif
-#include "imgui.h"
+#include "imguiNav.h"
 #include "InputGeom.h"
 #include "Sample.h"
 #include "Sample_TempObstacles.h"

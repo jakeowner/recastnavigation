@@ -26,7 +26,7 @@
 #include "DetourNavMesh.h"
 #include "DetourNavMeshQuery.h"
 #include "DetourCrowd.h"
-#include "imgui.h"
+#include "imguiNav.h"
 #include "SDL.h"
 #include "SDL_opengl.h"
 

@@ -19,7 +19,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-#include "imgui.h"
+#include "imguiNav.h"
 
 #ifdef WIN32
 #	define snprintf _snprintf

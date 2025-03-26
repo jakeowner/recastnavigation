@@ -25,7 +25,7 @@
 #include "RecastDebugDraw.h"
 #include "DetourDebugDraw.h"
 #include "RecastDump.h"
-#include "imgui.h"
+#include "imguiNav.h"
 #include "SDL.h"
 #include "SDL_opengl.h"
 

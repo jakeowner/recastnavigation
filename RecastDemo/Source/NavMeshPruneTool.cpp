@@ -23,7 +23,7 @@
 #include <vector>
 #include "SDL.h"
 #include "SDL_opengl.h"
-#include "imgui.h"
+#include "imguiNav.h"
 #include "NavMeshPruneTool.h"
 #include "InputGeom.h"
 #include "Sample.h"
